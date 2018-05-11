@@ -1,0 +1,6 @@
+{
+  "name": "03-disable-minify",
+  "scripts": {
+    "build": "node ../../node_modules/webpack-cli/bin/webpack.js"
+  }
+}

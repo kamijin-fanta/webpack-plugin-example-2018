@@ -1,0 +1,12 @@
+{
+  "name": "04-license-webpack-plugin",
+  "scripts": {
+    "build": "node ../../node_modules/webpack-cli/bin/webpack.js"
+  },
+  "devDependencies": {
+    "license-webpack-plugin": "^1.3.1"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.10"
+  }
+}

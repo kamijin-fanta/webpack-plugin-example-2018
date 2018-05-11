@@ -1,0 +1,6 @@
+{
+  "name": "06-custom-plugin",
+  "scripts": {
+    "build": "node ../../node_modules/webpack-cli/bin/webpack.js"
+  }
+}

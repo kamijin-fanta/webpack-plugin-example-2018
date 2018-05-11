@@ -1,0 +1,6 @@
+{
+  "name": "02-no-optimize",
+  "scripts": {
+    "build": "node ../../node_modules/webpack-cli/bin/webpack.js --mode=development"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "05-license-webpack-plugin-in-prod",
+  "scripts": {
+    "build": "node ../../node_modules/webpack-cli/bin/webpack.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "lodash-es": "^4.17.10"
+  }
+}
